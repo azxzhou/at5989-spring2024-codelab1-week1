@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# info about game 
 
-DO NOT LEAVE IT LIKE THIS!!!
+wasd controller i guess
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+heres ur content matt
